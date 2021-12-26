@@ -5,7 +5,7 @@
 - 🔭 I’m currently working for Infosys as Go Developer.
 - 🌱 I’m currently learning bashscript
 - 👯 I’m looking to collaborate with other developers
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - 🙂 Proverb: Losing something is not always an end, it can also be a beginning💪
 - ⚡ Fun fact: I love cycling 🚴
 
