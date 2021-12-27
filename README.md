@@ -1,35 +1,35 @@
 ### Hi there, I'm Hemnath 👋
 
-## I'm a Back-end Developer 🧑‍💻
+_Software Developer_ 🧑‍💻<a href="https://www.infosys.com/" target="_blank"><b>@Infosys</b></a>
 
-- 🔭 I’m currently working for Infosys as Go Developer.
-- 🌱 I’m currently learning bashscript
+[![Linkedin: Hemnath Jaishankar](https://img.shields.io/badge/-Hemnath-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemnath-jaishankar/)](https://www.linkedin.com/in/hemnath-jaishankar)
+[![GitHub Hemnath Jaishankar](https://img.shields.io/github/followers/SriHemnath?label=follow&style=social)](https://github.com/SriHemnath)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=SriHemnath.visitor-badge)
+[![Resume](https://img.shields.io/badge/Resume-Download-brightgreen)](https://drive.google.com/file/d/1DH4a-CrpztwEN5ArWg_piUo2km1jFjR8/view?usp=sharing)
+
+## About me
+
+- 🌱 I’m currently learning bashscript and I am also interested in cloud native technologies
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🙂 Proverb: Losing something is not always an end, it can also be a beginning💪
 - ⚡ Fun fact: I love cycling 🚴
 
-### Connect with me:
+### Proficient
 
-[<img align="left" alt="https://github.com/SriHemnath/SriHemnath | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/facebook.svg" />][facebook]
-[<img align="left" alt="https://github.com/SriHemnath/SriHemnath | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="https://github.com/SriHemnath/SriHemnath | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<code><a href="https://go.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code>
+<code><a href="https://spring.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
 
-<br />
+### Beginner
 
-### Languages and Tools:
+<code><a href="https://grpc.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
+<code><a href="https://www.docker.com/" target="\_blank"><img height="100" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
+<code><a href="https://kubernetes.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
 
-[<img align="left" alt="Go" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/go.svg" />][go]
-[<img align="left" alt="Java" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/java.svg" />][java]
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][vscode]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][sql]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][mysql]
-[<img align="left" alt="GitLab" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gitlab.svg" />][gitlab]
-[<img align="left" alt="GitHub" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />][github]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][linkedin]
+### Interested In
 
-<br />
-<br />
+<code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
+<code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a></code>
 
 [instagram]: https://www.instagram.com/hemnath_j
 [facebook]: https://www.facebook.com/hemnath.jaishankar
