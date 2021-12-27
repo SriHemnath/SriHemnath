@@ -13,7 +13,7 @@ _Software Developer_ 🧑‍💻<a href="https://www.infosys.com/" target="_blan
 - 👯 I’m looking to collaborate with other developers
 - 🥅 2022 Goals: Contribute more to Open Source projects
 - 🙂 Proverb: Losing something is not always an end, it can also be a beginning💪
-- ⚡ Fun fact: I love cycling 🚴
+- ⚡ Fun fact: I love cycling <a href="https://www.strava.com/athletes/83250173" target="_blank"><b>🚴</b></a>
 
 ### Proficient
 
