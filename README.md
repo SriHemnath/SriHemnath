@@ -14,7 +14,7 @@ Software Engineer with 7 years of experience in IT industry using Go, Java, Java
 I love cycling <a href="https://www.strava.com/athletes/83250173" target="_blank"><b>🚴</b></a>
 
 ### Technologies I know
-<code><a href="https://go.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code>
+<code><a href="https://go.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code> <br>
 <code><a href="https://spring.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
 <code><a href="https://react.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
 <code><a href="https://graphql.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a></code>
