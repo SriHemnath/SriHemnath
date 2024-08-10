@@ -1,3 +1,4 @@
+🙂 Losing something is not always an end, it can also be the beginning💪
 ### Hi there, I'm Hemnath 👋
 
 _Lead Software Engineer_ 🧑‍💻<a href="https://www.experionglobal.com/" target="_blank"><b>@Experion Technologies</b></a>
@@ -9,27 +10,18 @@ _Lead Software Engineer_ 🧑‍💻<a href="https://www.experionglobal.com/" ta
 
 ## About me
 
-- 🌱 I’m currently learning bashscript and I am also interested in cloud native technologies
-- 👯 I’m looking to collaborate with other developers
-- 🥅 2023 Goals: Contribute more to Open Source projects
-- 🙂 Proverb: Losing something is not always an end, it can also be the beginning💪
-- ⚡ Fun fact: I love cycling <a href="https://www.strava.com/athletes/83250173" target="_blank"><b>🚴</b></a>
+Software Engineer with 7 years of experience in IT industry using Go, Java, JavaScript, Spring, React, SQL, Graphql and Docker.
+I love cycling <a href="https://www.strava.com/athletes/83250173" target="_blank"><b>🚴</b></a>
 
-### Proficient
-
+### Technologies I know
 <code><a href="https://go.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/golang/golang-official.svg"></a></code>
 <code><a href="https://spring.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg"></a></code>
-
-### Beginner
-
+<code><a href="https://react.dev/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></a></code>
+<code><a href="https://graphql.org/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a></code>
 <code><a href="https://grpc.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/grpcio/grpcio-ar21.svg"></a></code>
 <code><a href="https://www.docker.com/" target="\_blank"><img height="100" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg"></a></code>
 <code><a href="https://kubernetes.io/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg"></a></code>
-
-### Interested In
-
 <code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg"></a></code>
-<code><a href="https://cloud.google.com/" target="_blank"><img height="100" src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg"></a></code>
 
 [instagram]: https://www.instagram.com/hemnath_j
 [facebook]: https://www.facebook.com/hemnath.jaishankar
